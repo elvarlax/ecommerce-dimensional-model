@@ -122,7 +122,7 @@ CREATE OR REPLACE TABLE analytics.dim_orders AS (
 );
 
 -- Fact Order Products Table:
-CREATE TABLE analytics.fact_order_products AS (
+CREATE OR REPLACE TABLE analytics.fact_order_products AS (
   SELECT
     op.order_id,
     op.product_id,
