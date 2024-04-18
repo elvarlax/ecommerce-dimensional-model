@@ -33,19 +33,13 @@ To replicate this project environment, follow these steps:
 - SQL: Query language for interacting with Snowflake and performing analytics queries.
 
 ## Practice Questions
+
 To deepen your understanding of ecommerce analytics and dimensional modeling, the project includes a set of advanced practice questions. These questions cover a range of analytical tasks and can be used to test your proficiency in querying and analyzing data within the dimensional model. Each question is designed to extract valuable insights from the dataset and enhance your skills in working with Snowflake and performing advanced analytics.
 
-1. **Total Products Ordered per Department**:
-   - Calculate the total number of products ordered per department to understand the distribution of product orders across different departments within the ecommerce platform.
-
-2. **Top 5 Aisles with the Highest Number of Reordered Products**:
-   - Identify the top 5 aisles with the highest number of reordered products to pinpoint which product categories are most frequently repurchased by customers.
-
-3. **Average Number of Products Added to Cart per Order by Day of the Week**:
-   - Calculate the average number of products added to the cart per order for each day of the week to analyze shopping behavior patterns based on the day of the week.
-
-4. **Top 10 Users with the Highest Number of Unique Products Ordered**:
-   - Identify the top 10 users with the highest number of unique products ordered to recognize the most active users in terms of product diversity.
+1. Query to calculate the total number of products ordered per department
+2. Query to find the top 5 aisles with the highest number of reordered products
+3. Query to calculate the average number of products added to the cart per order by day of the week
+4. Query to identify the top 10 users with the highest number of unique products ordered
 
 These practice questions provide valuable insights into various aspects of ecommerce data and offer opportunities to enhance your analytical skills through practical application.
 
