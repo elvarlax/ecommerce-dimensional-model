@@ -43,5 +43,7 @@ To deepen your understanding of ecommerce analytics and dimensional modeling, th
 
 These practice questions provide valuable insights into various aspects of ecommerce data and offer opportunities to enhance your analytical skills through practical application.
 
+[Click here to access my solution to the practice questions](https://github.com/elvarlax/ecommerce-dimensional-model/blob/main/practice_questions.sql)
+
 ## Conclusion
 This project showcases the power of dimensional modeling and Snowflake's cloud data warehousing capabilities for ecommerce analytics. By implementing a dimensional model within Snowflake and integrating with Azure services, users can unlock deeper insights from ecommerce data to drive informed decision-making and optimize business strategies.
